@@ -48,7 +48,7 @@ OSL V3 : https://opensource.org/licenses/OSL-3.0
 
 Credits
 --------
-Crafted with :heart: at [Webkul](http://webkul.com)
+Crafted with :heart: at [Webkul upuzi](http://webkul.com)
 
 
 Thank you for downloading.
